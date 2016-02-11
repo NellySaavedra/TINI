@@ -1,0 +1,102 @@
+* {
+	font-family: Arial;
+ }
+#background {
+	width: 100%;
+	position: absolute; 
+	z-index: -1;   
+}
+.strecht {
+	width: 100%;
+}
+li {
+	margin-top: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
+	display: inline-block;
+	float: right;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+.Boton {
+	width: 140px;
+	height: 60px;
+	background-color: #E8820C;
+	color: white;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 20px;
+}
+.TextCenter {
+	text-align: center;
+}
+h1 {
+	margin-top: 270px;
+}
+h5 {
+	margin-bottom: 380px;
+}
+/*ARREGLO DE TABLAS*/
+.ImgMosaico {
+	width: 300px;
+	height: 300px;
+	margin: 22px 37px;
+
+}
+h3{
+	margin-bottom: 10px;
+}
+p {
+	width: 360px;
+	margin-bottom: 30px;
+}
+.BackMosacio {
+	width: 400px;
+	margin: 30px;
+}
+.Uno {
+	background-color: #FF762B;
+}
+.Dos {
+	background-color: #F23E2F;
+}
+.Tres {
+	background-color: #FFE033;
+}
+.Cuatro{
+	background-color: #C6FC3C;
+}
+.Botonmosaico {
+	width: 150px;
+	height: 40px;
+	background-color: #FA0E44;
+	color: white;
+	text-align: center;
+	margin: auto;
+	padding-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+/*arreglo de Footer*/
+.FondoFoot {
+	background-color: #2F0F44;
+	color: white;
+}
+li {
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 50px;
+	display: inline-block;
+}
+.LiFoot {
+	float: none;
+}
+.HrVertical {
+	height: 10px;
+	width: 1px;
+	margin-left: 6px;
+	margin-right: 6px;
+	display: inline;
+}
